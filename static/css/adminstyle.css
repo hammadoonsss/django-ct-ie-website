@@ -1,0 +1,31 @@
+#header {
+    background: rgb(0, 62, 69);
+    color: #ffffff;
+}
+
+#branding h1{
+    color: #ffffff;
+}
+
+div.breadcrumbs {
+    background: rgb(12, 21, 27);
+}
+
+.login .submit-row{
+    padding-top: 10px !important;
+}
+
+
+input[type="button"],
+.submit-row input{
+    background: rgb(0, 62, 69);
+    width:100%;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: rgb(0, 62, 69);
+}
+
+a:link, a:visited{
+    color: rgb(61, 88, 106);
+}
